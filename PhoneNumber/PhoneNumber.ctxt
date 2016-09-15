@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PhoneNumber()
+comment1.params=areaCode\ numBegin\ numEnd
+comment1.target=void\ changeNumber(int,\ int,\ int)
+comment1.text=\ creates\ a\ problem\ because\ the\ user\ can\ put\n\ \ \ \ \tanything\ in\!\!\n\n\tpublic\ void\ changeNumber(String\ newNumber)\ \n\t{\n\t\tphoneNumber\ \=\ newNumber;\n\t}\n
+numComments=2
